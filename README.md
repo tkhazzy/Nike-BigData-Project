@@ -98,6 +98,8 @@ Unlike existing Nike platforms (Nike Run Club, Nike Training Club), this applica
    - Provides **personalized promotions** based on demographics.  
 5. **Peak Workout Hours**  
    - Optimizes **push notifications & reminders** for higher engagement.  
+![image](https://github.com/user-attachments/assets/48517b63-8616-498b-8727-b43ac905de27)
+
 
 ### **🔹 Challenges & Considerations**
 - **Data Integration:** Ensuring real-time sync between structured & unstructured data.  
