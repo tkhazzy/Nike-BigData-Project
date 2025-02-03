@@ -117,7 +117,7 @@ Unlike existing Nike platforms (Nike Run Club, Nike Training Club), this applica
 
 ---
 
-## 📌 Flow Diagram  
+
 
 
 ## 📌 Conclusion  
